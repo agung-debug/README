@@ -1,0 +1,15 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("=== Java Version Control Practice ===");
+        System.out.println("This is a simple Java program for practicing Git and GitHub.");
+        System.out.println("----------------------------------------");
+
+        // Contoh logika sederhana
+        int a = 10;
+        int b = 5;
+        int hasil = a + b;
+
+        System.out.println("Hasil penjumlahan " + a + " + " + b + " = " + hasil);
+        System.out.println("Program berhasil dijalankan!");
+    }
+}
